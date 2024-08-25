@@ -7,3 +7,11 @@
 
 ### activity
 <img src="https://github-readme-stats.vercel.app/api?username=pourkahnouji&show_icons=true&theme=radical" />
+
+
+# i am `python` programer 
+
+```pyhon
+print("hello world")
+name = int(input("enter your name"))
+```
